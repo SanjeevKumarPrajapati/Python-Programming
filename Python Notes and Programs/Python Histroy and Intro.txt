@@ -1,0 +1,41 @@
+<--------------------------------------- Python History --------------------------->
+
+1.) Python is a general purpose programming language.
+2.) The implementation of python was started in the december 1989 by Guido van Rossum at CWI in Netherland.
+
+3.) In February 1991 van Rossum published the code (labeled version 0.9.0) to alt.sources.
+
+4.) In 1994 python 1.0 was released with new features like :-  lambda , map ,filter,and reduce.
+
+5.) Python 2.0 added new features like :- List Comprehension, Garbage collection system.
+
+6.) On december 3, 2008 python 3.0 ( Also called "Py3lc") was released.
+
+7.) It was designed to rectify fundamental flow of the language.
+
+<--------------------------------- Python Applications ------------------------------------>
+
+1.) Web Appliaction
+
+2.) Desktop GUI Application ( Tkinter ,pyautogui)
+
+3.) Software Development
+4.) Scientific and Numeric Calculation(Numpy , Scipy)
+
+5.) Business Applications
+
+6.) Console based Application
+
+7.) Audio or video based applications.( Pyaudio, openCV)
+
+8.) 3
+
+
+
+
+
+
+
+
+
+
