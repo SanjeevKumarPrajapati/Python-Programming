@@ -55,6 +55,14 @@ print("Or Bitwise Operator :- ",a|b)
 print("Xor Bitwise operator :- ",a^b)
 print("Compliment :- ",~a)
 
+print("Identity Operator")
+
+=================> is/ is not
+
+print("Membership Operator :- ")
+
+================> in / not in
+
 
 """
 """
